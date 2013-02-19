@@ -6,8 +6,6 @@ Clouds & Concerts - 2012
 Ola Loevholm
 
 
-
-
 Called from command line: 
 The script reads a file named "topp1000_artister.csv" consisting of a list of artists and then tries to find out which country each artist comes from based on the name. 
 The name is given in the second column of the CSV file.
