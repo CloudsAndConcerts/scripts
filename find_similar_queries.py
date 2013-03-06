@@ -80,5 +80,5 @@ print len(a)
 # Going through every element to search for similarities
 for el in a:
   for iel in a:
-    if compare_strings(iel,el) > 0.5:
+    if compare_strings(iel,el) > 0.75:
       print "%s    #    %s" % (el,iel)
