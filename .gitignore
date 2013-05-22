@@ -8,3 +8,4 @@ query*
 *.gif
 *.png
 *.csv
+.DS_Store
