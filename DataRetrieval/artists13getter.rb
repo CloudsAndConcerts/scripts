@@ -5,6 +5,16 @@ require 'nokogiri'
 require 'open-uri'
 require 'csv'
 
+=begin
+Clouds & Concerts - 2013
+Ola Loevholm
+
+This scripts loads the list over artists playing at the Øya festival, and fetches the artist, stage and date of the event. 
+A CSV file with the name 'output.csv' is created containing the events from the Øya-stages.
+
+=end
+
+
 class Concert
   attr_accessor :artist, :scene, :date, :datetime
   def initialize(artist, scene, date)

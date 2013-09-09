@@ -7,6 +7,19 @@ require 'csv'
 require 'open-uri'
 require 'fileutils'
 
+=begin
+Clouds & Concerts - 2013
+Ola Loevholm
+
+This scripts gets all images accessible through the Instagram API with images related to a task. Add the #tag - without the prepended "#" - to download the images. 
+Several meta-data (see the attr_accessors for the script) is saved to a CSV file, and images are saved to a folder with images_tagname, and temp metadata to md_tagname.
+
+The final CSV with metadata is saved as "output_tagname.csv".
+
+Tagname is replaced by the name of the hashtag you want to download.
+
+=end
+
 
 class InstaEntry
   attr_accessor :id, :username, :picture_url, :likes, :filter, :location, :type, :caption, :tags, :fullname, :user_id, :created_time, :link
