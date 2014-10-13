@@ -1,4 +1,4 @@
-# Clouds and Concerts
+﻿# Clouds and Concerts
 ## Utility scripts
 
 In this repository you will find various scripts used by the Clouds & Concerts project. 
@@ -16,4 +16,8 @@ These scripts are written as a part of the Clouds & Concerts project. Please let
 
 
 ### Contact information
-Please contact ola.lovholm@imv.uio.no if you have any questions.
+Please contact arnt.maaso@media.uio.no if you have any questions.
+
+### Website
+The project's [website in English](hf.uio.no/cloudsandconcerts)
+Prosjektets [norske nettside](hf.uio.no/skyogscene)
