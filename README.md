@@ -19,5 +19,6 @@ These scripts are written as a part of the Clouds & Concerts project. Please let
 Please contact arnt.maaso@media.uio.no if you have any questions.
 
 ### Website
-The project's [website in English](hf.uio.no/cloudsandconcerts)
-Prosjektets [norske nettside](hf.uio.no/skyogscene)
+The project's [website in English](http://hf.uio.no/cloudsandconcerts).
+
+Prosjektets [norske nettside](http://hf.uio.no/skyogscene)
